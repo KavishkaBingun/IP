@@ -1,0 +1,10 @@
+//Using variables in printf statements
+#include<stdio.h>
+int main(void)
+{
+	int x=2, y=3; //values are assumed for the variables
+	
+	printf("\n");
+
+	return 0;
+}//end of the main function
